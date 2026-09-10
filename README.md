@@ -1,4 +1,4 @@
-# SecureImage Chain 🔗
+# Blockchain-Based Image Sharing and Tamper Accountability System 🔗
 
 A blockchain-based media sharing and tamper accountability system that replaces direct file transfer with smart contract-controlled viewing permissions.
 
