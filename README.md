@@ -4,10 +4,6 @@ A blockchain-based media sharing and tamper accountability system that replaces 
 
 > "The system enables secure image sharing by replacing file transfer with blockchain-controlled viewing permissions, while ensuring tamper detection and immutable accountability of access events."
 
-## Contributors
-
-- Sonu Soni
-
 ---
 
 ## What it does
